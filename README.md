@@ -1,0 +1,2 @@
+# Infytq-Practice-Problems
+Infytq_Programming_Fundamentals_using_Python_Part_2_Practice_Problems
